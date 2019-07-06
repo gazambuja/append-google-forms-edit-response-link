@@ -9,3 +9,8 @@ On Google Form submission, append a the response id and edit response link to Go
 
 # Note
 The timestamp in Google Sheets and Google Forms seem to differ by about 1 second. Because of this, the script cannot use the Sheets Form Submit event object timestamp to match the exact Google Form Response. Instead the script checks if all of the other values are equal. This should be enough to uniquely match the Sheets Form Submit event object to a Google Form Response unless two Google Form Responses are received with identical values in rapid success (roughly less than 0.5 seconds).
+
+# Relevent Documentation
+https://developers.google.com/apps-script/guides/triggers/events#form-submit
+https://developers.google.com/apps-script/reference/forms/
+https://developers.google.com/apps-script/reference/script/script-app
