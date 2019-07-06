@@ -1,5 +1,5 @@
 # append-google-forms-edit-response-link
-On Google Form submission, append a the response id and edit response link to Google Sheet row.
+On Google Form submission, append the response id and edit response link to Google Sheet row.
 
 # Usage
 1. In the Google Sheet linked to your Google Form(s), go to Tools > Script Editor
@@ -12,5 +12,5 @@ The timestamp in Google Sheets and Google Forms seem to differ by about 1 second
 
 # Relevent Documentation
 https://developers.google.com/apps-script/guides/triggers/events#form-submit
-https://developers.google.com/apps-script/reference/forms/
+https://developers.google.com/apps-script/reference/forms/form-response
 https://developers.google.com/apps-script/reference/script/script-app
