@@ -1,5 +1,5 @@
 # append-google-forms-edit-response-link
-On Google Form submission, append the response id and edit response link to Google Sheet row.
+On Google Form submission, append the response id and edit response link to the Google Sheet row.
 
 # Usage
 1. In the Google Sheet linked to your Google Form(s), go to Tools > Script Editor
