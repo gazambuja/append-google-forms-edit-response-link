@@ -12,5 +12,7 @@ The timestamp in Google Sheets and Google Forms seem to differ by about 1 second
 
 # Relevent Documentation
 https://developers.google.com/apps-script/guides/triggers/events#form-submit
+
 https://developers.google.com/apps-script/reference/forms/form-response
+
 https://developers.google.com/apps-script/reference/script/script-app
