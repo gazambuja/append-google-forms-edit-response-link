@@ -1,7 +1,3 @@
-/*
- * @OnlyCurrentDoc
- */
-
 function createFormTrigger() {
   var triggerFunctionName = "addFormResponseIdAndUrl_";
   deleteAllExistingTriggers_();
